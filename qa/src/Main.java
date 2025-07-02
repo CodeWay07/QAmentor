@@ -1,10 +1,9 @@
 import java.util.Scanner;
-import java.util.ArrayList;
 
 public class Main {
     public static void main(String[] args) {
 
-//        Scanner scanner = new Scanner(System.in);
+//       Scanner scanner = new Scanner(System.in);
 //        System.out.print("Enter your numbers: ");
 //        int input = scanner.nextInt();
 //
