@@ -8,7 +8,7 @@ public class Main {
        System.out.print("Enter your numbers: ");
        int input = scanner.nextInt();
 
-        Numbers.oddEvenChecker(input);
+       Numbers.oddEvenChecker(input);
         Numbers.sum(input);
 
         int[] arr1 = {10, 5, 20, 15, 2};
