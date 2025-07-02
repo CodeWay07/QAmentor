@@ -9,7 +9,7 @@ public class Main {
        int input = scanner.nextInt();
 
        Numbers.oddEvenChecker(input);
-        Numbers.sum(input);
+       Numbers.sum(input);
 
         int[] arr1 = {10, 5, 20, 15, 2};
         int[] arr2 = {1, 2, 3, 4, 5};
