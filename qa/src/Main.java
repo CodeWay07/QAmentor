@@ -7,7 +7,8 @@ public class Main {
         System.out.print("Enter your number: ");
         int input = scanner.nextInt();
 
-        Numbers.oddEvenChecker(input);
+        //Numbers.oddEvenChecker(input);
+        //Numbers.sum(input);
 
     }
 }
