@@ -5,7 +5,7 @@ public class Main {
 
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter your number: ");
-        double input = scanner.nextInt();
+        int input = scanner.nextInt();
 
         Numbers.oddEvenChecker(input);
 

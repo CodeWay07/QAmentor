@@ -1,14 +1,11 @@
 
 public class Numbers {
 
-    public static void oddEvenChecker(double number){
+    public static void oddEvenChecker(int number){
         if (number % 2 == 0){
             System.out.println("Your number is even");
         }
-        else if (number % 2 != 0) {
-            System.out.println("Your number is odd");
-        }
         else
-            System.out.println("Something is wrong");
+            System.out.println("Your number is odd");
     }
 }
