@@ -28,10 +28,15 @@ public class Main {
         Arrays.greaterNumber(arr7);
  */
 
-        Scanner scanner = new Scanner(System.in);
-        System.out.print("Enter your String: ");
-        String input = scanner.next();
+//        Scanner scanner = new Scanner(System.in);
+//        System.out.print("Enter your String: ");
+//        String input = scanner.next();
+//
+//        Strings.reverseStrings(input);
 
-        Strings.reverseStrings(input);
+        Animals.makeSound();
+        Dog.makeSound();
+        Cat.makeSound();
+        Racoon.makeSound();
     }
 }
